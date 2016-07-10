@@ -1,0 +1,21 @@
+body{
+
+	padding-top: 20px;	
+	margin-bottom: -20px
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 h2 h3 h4 {
+	font-family: 'Oswald', sans-serif;
+}
+
+#footer{
+	margin-top: 20px
+}
+
+.centered{
+	margin: auto;
+}

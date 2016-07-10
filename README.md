@@ -1,0 +1,1 @@
+This is an eShop for top of the range cosmetics, and it's all about value for money.
